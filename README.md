@@ -10,5 +10,5 @@ The materials presented here highlight projects in which I contributed to the cr
 
 - [Atlassian SOP Template Development](atlassian-sop-template.md)
 - [Blockbit GSM Documentation](blockbit-gsm-documentation.md)
-- Blockbit Appliance Manual Production
+- [Blockbit Appliance Manual Production](blockbit-appliance-manual.md)
 - Documentation Migration Projects
