@@ -9,6 +9,6 @@ The materials presented here highlight projects in which I contributed to the cr
 ## Included Case Studies
 
 - [Atlassian SOP Template Development](atlassian-sop-template.md)
-- Blockbit GSM Documentation
+- [Blockbit GSM Documentation](blockbit-gsm-documentation.md)
 - Blockbit Appliance Manual Production
 - Documentation Migration Projects
