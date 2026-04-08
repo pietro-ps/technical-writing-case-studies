@@ -6,7 +6,7 @@ Contributed to the development of the Standard Operating Procedure (SOP) templat
 
 ## Responsibilities
 
-My responsibilities included contributing to the design of the template’s structural framework, defining information hierarchy, shaping tone and language standards, and helping establish visual/document flow elements to ensure clarity, consistency, and usability.
+My responsibilities included contributing to the design of the template’s structural framework, defining information hierarchy, shaping tone and language standards, and helping establish visual/document flow elements to ensure clarity, consistency, and usability. I also contributed to aligning the template structure with internal documentation best practices for operational use.
 
 ## Challenges
 
