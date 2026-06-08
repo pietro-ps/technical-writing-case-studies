@@ -6,6 +6,19 @@ This repository contains selected case studies showcasing my professional experi
 
 The materials presented here highlight projects in which I contributed to the creation, structuring, migration, or optimization of technical documentation and procedural content. Each case study outlines the context of the project, my responsibilities, challenges faced, and supporting material where applicable.
 
+## Areas of Experience
+
+* Technical Writing
+* Documentation Operations
+* Information Architecture
+* Content Governance
+* Knowledge Management
+* Infrastructure Documentation
+* Cybersecurity Documentation
+* API Documentation
+* Documentation Migration
+* Process Design
+
 ## Included Case Studies
 
 - [Atlassian SOP Template Development](atlassian-sop-template.md)
