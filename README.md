@@ -25,3 +25,4 @@ The materials presented here highlight projects in which I contributed to the cr
 - [Blockbit GSM Documentation](blockbit-gsm-documentation.md)
 - [Blockbit Appliance Manual Production](blockbit-appliance-manual.md)
 - [Documentation Migration and Information Architecture Projects](documentation-migration-projects.md)
+- [API Documentation and Developer-Facing Content](api-documentation-and-developer-content.md)
