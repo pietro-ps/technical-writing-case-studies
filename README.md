@@ -1,6 +1,6 @@
 # Technical Writing Case Studies
 
-This repository contains selected case studies showcasing my professional experience in technical writing, information architecture, and process design across multiple enterprise and product environments.
+This repository contains selected case studies showcasing my professional experience in technical writing, documentation operations, information architecture, infrastructure documentation, and cybersecurity documentation across enterprise software environments.
 
 ## Overview
 
