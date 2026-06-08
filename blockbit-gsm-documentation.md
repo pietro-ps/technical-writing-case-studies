@@ -28,6 +28,25 @@ Each section followed a standardized format:
 - Practical examples when applicable;
 - Validation and troubleshooting guidance.
 
+## Technical Scope
+
+The documentation covered a broad range of enterprise infrastructure and cybersecurity topics, requiring close collaboration with engineering teams and extensive technical research.
+
+Key areas documented included:
+
+* Centralized security management and administration
+* Appliance provisioning and onboarding
+* VMware virtual appliance deployment
+* License management and activation workflows
+* Monitoring and alerting integrations
+* Authentication and access control mechanisms
+* Multi-device administration and inventory management
+* Network visibility and asset monitoring
+* API-based integrations between Blockbit platforms
+* Troubleshooting and operational maintenance procedures
+
+This breadth of technical scope required translating complex infrastructure and security concepts into structured, user-friendly documentation suitable for administrators, support teams, and customer environments.
+
 ## Outcome
 
 The final release resulted in a 656-page administrator manual published in both Portuguese and English. The documentation became part of the official GSM product launch and continued to evolve alongside the platform through future updates.
