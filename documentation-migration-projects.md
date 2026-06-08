@@ -10,13 +10,25 @@ These projects involved migrating legacy documentation systems, redesigning orga
 
 My responsibilities across these initiatives included conducting documentation audits and inventories, designing information architecture structures, defining categorization and labeling systems, creating content standards and templates, coordinating migration workflows, validating content organization and compliance, and collaborating with stakeholders across technical, support, and product teams.
 
+## Documentation Operations Focus
+
+Across these initiatives, the work extended beyond content migration and included the design of sustainable documentation operations frameworks.
+
+This involved defining governance models, establishing content ownership practices, creating taxonomy and labeling systems, developing documentation standards, improving searchability, and implementing scalable structures capable of supporting long-term maintenance across multiple teams and products.
+
+A significant portion of the work focused on transforming fragmented documentation ecosystems into structured, discoverable, and operationally sustainable knowledge repositories.
+
 ## Selected Projects
 
 ### Atlassian – SOP Centralization Initiative
 
 Led a strategic initiative to centralize and reorganize Standard Operating Procedures (SOPs) from six separate support teams into Atlassian’s CSS SOP Space within Confluence.
 
-The project involved auditing dispersed documentation, conducting collaborative categorization exercises with stakeholders, defining standardized labeling and taxonomy systems, validating compliance requirements, and enforcing content governance standards to improve discoverability and long-term maintainability.
+The initiative addressed a broader knowledge management challenge in which operational knowledge was fragmented across personal spaces, disconnected repositories, and inconsistent documentation structures.
+
+The project involved auditing dispersed documentation, conducting stakeholder-driven categorization activities, defining standardized taxonomy and labeling systems, validating compliance requirements, and establishing governance practices designed to improve discoverability, consistency, and long-term sustainability.
+
+Beyond the migration itself, the initiative helped transform documentation from isolated team assets into a centralized operational knowledge repository aligned with organizational standards and compliance requirements.
 
 Due to confidentiality restrictions, supporting materials for this project cannot be publicly shared.
 
